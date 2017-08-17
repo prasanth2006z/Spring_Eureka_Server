@@ -1,0 +1,16 @@
+{
+  "name": "Spring_Eureka_Server",
+  "description": "Sample Spring Eureka Example",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
